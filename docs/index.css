@@ -1,0 +1,22 @@
+* {
+    background-color: palevioletred;
+    
+}
+#donut {
+    height: 200px;
+}
+
+.mainbody {
+    text-align: center;
+}
+
+nav {
+text-align: center;
+padding: 25px;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    font-size: larger;
+}
